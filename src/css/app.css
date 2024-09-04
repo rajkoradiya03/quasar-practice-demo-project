@@ -1,1 +1,10 @@
 /* app global css */
+
+@font-face {
+  font-family: "panchang-light";
+  src: url("../css/fonts/Panchang-Light.woff");
+}
+
+.text-p {
+  font-family: "panchang-light";
+}
